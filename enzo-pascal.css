@@ -1,25 +1,30 @@
-h1 {
-    font-size: 42px;
-    color:#293651;
+.title {
+    font-size: 48px;
     font-weight: bold;
+    color:#293651;
+    text-align: center;
 }
 
-h2 {
+.subtitle1 {
     font-size: 26px;
     color: #00a78e;
-}
-
-.texto-centralizado {
-    text-align: center;
-    
-}
-
-#link-contratar {
-    background-color: green;
-    border: solid;
-    padding: 5px;
-}
-
-* {
     font-family: sans-serif;
+    text-align: center;
+}
+
+.subtitle2 {
+    font-size: 22px;
+    font-weight: 300;
+    letter-spacing: 2pt;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.text {
+    font-size: 22px;
+    letter-spacing: 1.2pt;
+    color: #76778c;
+    line-height: 32px;
+    font-family: sans-serif;
+    text-align: center;
 }
