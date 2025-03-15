@@ -24,4 +24,8 @@ Confira  arquivo enzo-pascal.css com classe 'center' para centralizar
 
 ## Passo 6: Aula Aquarela de cores no CSS: Revelando o Sistema RGB e Hexadecimal
 Confira o arquivo enzo-pascal.html lista não ordenada (ul)
-Confira  arquivo enzo-pascal.css com clade 'parte2' para alterar cor de fundo (background-color)
+Confira  arquivo enzo-pascal.css com classe 'parte2' para alterar cor de fundo (background-color)
+
+## Passo 7: Aula Incorporando Barras de Progresso com HTML e CSS
+Confira o arquivo enzo-pascal.html tag progress
+Confira  arquivo enzo-pascal.css com classe barra-progresso 
