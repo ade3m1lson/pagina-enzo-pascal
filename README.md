@@ -27,5 +27,9 @@ Confira o arquivo enzo-pascal.html lista não ordenada (ul)
 Confira  arquivo enzo-pascal.css com classe 'parte2' para alterar cor de fundo (background-color)
 
 ## Passo 7: Aula Incorporando Barras de Progresso com HTML e CSS
-Confira o arquivo enzo-pascal.html tag progress
-Confira  arquivo enzo-pascal.css com classe barra-progresso 
+Confira o arquivo enzo-pascal.html com tag progress
+Confira  arquivo enzo-pascal.css com classe barra-progresso
+
+## Passo 8: Aula Desvendando o CSS: Tag Semântica, pseudo-Classe e Caracteres
+Confira o arquivo enzo-pascal.html com tag footer
+Confira  arquivo enzo-pascal.css com classe rodape
