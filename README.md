@@ -33,3 +33,7 @@ Confira  arquivo enzo-pascal.css com classe barra-progresso
 ## Passo 8: Aula Desvendando o CSS: Tag Semântica, pseudo-Classe e Caracteres
 Confira o arquivo enzo-pascal.html com tag footer
 Confira  arquivo enzo-pascal.css com classe rodape
+
+## Passo 9: Aula Letras com Estilo: Dominando as Fontes no Desenvolvimento Web
+Confira o arquivo enzo-pascal.html com import de fonte da web
+Confira  arquivo enzo-pascal.css com font family Montserrat

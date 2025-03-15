@@ -1,6 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
 * {
     margin: 0;
     padding: 0;
+    font-family: "Montserrat", "san-serif";
 }
 
 .center {
@@ -21,14 +24,13 @@
 
 .title {
     font-size: 48px;
-    font-weight: bold;
+    font-weight: 900;
     color:#293651;
 }
 
 .subtitle1 {
     font-size: 26px;
     color: #00a78e;
-    font-family: sans-serif;
     letter-spacing: 2pt;
     padding-bottom: 20px;
 }
@@ -51,7 +53,6 @@
     font-size: 22px;
     font-weight: 300;
     letter-spacing: 2pt;
-    font-family: sans-serif;
     padding-bottom: 15px;
 }
 
@@ -60,17 +61,16 @@
     letter-spacing: 1.2pt;
     color: #76778c;
     line-height: 32px;
-    font-family: sans-serif;
     padding-bottom: 40px;
 }
 
 .btn {
-    font-family: sans-serif;
     color: white;
     background-color: #00a78e;
     border-radius: 5px;
     padding: 20px 40px;
     text-decoration: none;
+    font-weight: 500;
 }
 
 .barra-progresso {
@@ -88,7 +88,6 @@
     background-color: #293651;
     color: #828a9c;
     padding: 80px 80px;
-    font-family: sans-serif;
     font-size: 14px;
 }
 
