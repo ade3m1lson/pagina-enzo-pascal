@@ -18,3 +18,7 @@ Confira  arquivo enzo-pascal.css com marcação CSS para botão
 ## Passo 4: Aula Desafogando Seu Texto com espaçamento
 Confira o arquivo enzo-pascal.html com link (anchor)
 Confira  arquivo enzo-pascal.css com marcação CSS para botão 
+
+## Passo 5: Aula Como inserir e centralizar imagens em uma página HTML
+Confira o arquivo enzo-pascal.html com imagem (img)
+Confira  arquivo enzo-pascal.css com classe 'center' para centralizat imagem
